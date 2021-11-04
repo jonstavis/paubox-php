@@ -1,5 +1,5 @@
 {
-	"name" : "paubox/paubox-php",
+	"name" : "jonstavis/paubox-php",
 	"description" : "A PHP package for the Paubox Transactional Email API",
 	"homepage" : "https://github.com/Paubox/paubox-php",
 	"license" : "Apache-2.0",
